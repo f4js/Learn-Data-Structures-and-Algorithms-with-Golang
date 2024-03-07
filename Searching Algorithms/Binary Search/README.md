@@ -22,3 +22,4 @@ The key characteristic of binary search is its ability to quickly locate element
 Binary search has a time complexity of O(log n), where n is the number of elements in the array. This logarithmic time complexity means that binary search scales efficiently even for large datasets, making it a preferred choice for searching operations in sorted arrays.
 
 It's important to note that binary search requires the dataset to be sorted beforehand. If the dataset is not sorted, binary search cannot be applied, and alternative searching algorithms, such as linear search, must be used.
+.
