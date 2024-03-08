@@ -19,6 +19,10 @@ this must be done for arrays that is possible to have repeated random numbers in
 2. On worst case that we choose wrong pivot it has O(n<sup>2</sup>) .
 3. On best case that the array to sort it has just one, two or three elements it has time complexity of O(1)
 
+### Best case
+Quick sort algorithm is heavily depends on what pivot we choose, The best possible pivot is that it can divide both smaller
+and bigger arrays in equal length.
+
 ### Pros
 1. Fast on large datasets
 2. Use 'Divide and Conquer algorithm' that makes it easier
